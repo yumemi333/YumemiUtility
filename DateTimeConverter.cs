@@ -7,7 +7,7 @@ using UnityEngine;
 /// Set specific format to prevent errors which are caused when
 /// convert datetime to string or string to datetime error.
 /// </summary>
-public class DateTimeConverter
+public class DateTimeUtili
 {
     public static readonly CultureInfo StandardCultureInfo = new CultureInfo("ja-JP");
 
