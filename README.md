@@ -13,5 +13,7 @@ By setting specific culture info when use DateTime, prevent erorr that is possib
 
 DateTimeを使用する際に特定のカルチャ情報を設定することで、異なるカレンダーの設定（例えばタイのカレンダー）などによって起こりうるエラーを防ぐことができます。
 
-## TimeCounter
-You can set left time with free format as you want !
+## TimeCounter.cs
+You can set left time with free format as you want ! for example HH:mm:ss or mm:ss… 
+
+自由なフォーマットで残り時間を設定できます
